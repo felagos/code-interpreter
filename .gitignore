@@ -4,3 +4,4 @@
 __pycache__
 .DS_Store
 ./faiss_index_vector/*
+qrcode_*
